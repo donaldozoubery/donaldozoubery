@@ -27,7 +27,7 @@ Features:
 * Educational security challenges
 
 Repository
-https://github.com/USERNAME/open-cyber-lab
+https://github.com/donaldozoubery/open-cyber-lab
 
 Contributions are welcome.
 
@@ -35,9 +35,9 @@ Contributions are welcome.
 
 ## GitHub Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME\&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=donaldozoubery\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donaldozoubery\&layout=compact)
 
 ---
 
@@ -65,4 +65,4 @@ Typical contributions include:
 ## Contact
 
 GitHub
-https://github.com/USERNAME
+https://github.com/donaldozoubery
