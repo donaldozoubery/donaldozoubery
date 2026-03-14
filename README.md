@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Donaldo%20%7C%20Python%20%26%20Cybersecurity&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=38&desc=Open%20Source%20Developer%20%7C%20Security%20Tools%20Builder&descAlignY=55&descAlign=50"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=800&height=70&lines=Donaldo;Python+Developer;Cybersecurity+Enthusiast;Open+Source+Builder"/>
 </p>
 
 <p align="center">
