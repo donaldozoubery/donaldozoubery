@@ -1,8 +1,4 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=800&height=70&lines=Donaldo;Python+Developer;Cybersecurity+Enthusiast;Open+Source+Builder"/>
-</p>
-
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Python+Security+Tool+Builder;Open+Source+Contributor;Cybersecurity+Enthusiast"/>
 </p>
 
@@ -22,11 +18,17 @@ Currently building **Open Cyber Lab**, an open-source platform for learning cybe
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/cTrader-0A0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Trading%20Bots-orange?style=for-the-badge&logo=robotframework"/>
 
 </p>
 
