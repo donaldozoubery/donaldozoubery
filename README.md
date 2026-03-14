@@ -1,16 +1,68 @@
-## Hi there 👋
+# Donaldo
 
-<!--
-**donaldozoubery/donaldozoubery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on **Python, cybersecurity and open source tools**.
+I enjoy building developer utilities and security learning platforms.
 
-Here are some ideas to get you started:
+Currently working on **Open Cyber Lab**, an open-source project designed to help developers learn cybersecurity through interactive labs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+Python • Django • JavaScript • Linux • Security tooling • APIs
+
+---
+
+## Open Source Projects
+
+### Open Cyber Lab
+
+A modular cybersecurity lab platform built in Python.
+
+Features:
+
+* Interactive security labs
+* CLI interface
+* Easy lab creation for contributors
+* Educational security challenges
+
+Repository
+https://github.com/USERNAME/open-cyber-lab
+
+Contributions are welcome.
+
+---
+
+## GitHub Statistics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME\&layout=compact)
+
+---
+
+## Current Focus
+
+* Expanding **Open Cyber Lab**
+* Building cybersecurity learning tools
+* Contributing to open source
+
+---
+
+## Contribution
+
+If you're interested in cybersecurity or Python development, you can contribute to Open Cyber Lab.
+
+Typical contributions include:
+
+* new security labs
+* improvements to the CLI
+* documentation
+* bug fixes
+
+---
+
+## Contact
+
+GitHub
+https://github.com/USERNAME
