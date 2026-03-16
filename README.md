@@ -50,9 +50,7 @@ The goal is to create a modular system where developers can **add security labs 
 * educational hacking challenges
 * open contribution model
 
-Repository
-
-https://github.com/donaldozoubery/open-cyber-lab
+[![Repository](https://img.shields.io/badge/GitHub-Open_Cyber_Lab-00FFD1?style=for-the-badge&logo=github)](https://github.com/donaldozoubery/open-cyber-lab)
 
 ⭐ Contributions welcome.
 
@@ -65,6 +63,26 @@ https://github.com/donaldozoubery/open-cyber-lab
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=donaldozoubery&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donaldozoubery&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=donaldozoubery&theme=tokyonight&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
+
+---
+
+# 🐍 Snake Animation
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/donaldozoubery/donaldozoubery/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -122,8 +140,11 @@ Typical contributions include:
 
 # 📫 Contact
 
-GitHub
-https://github.com/donaldozoubery
+<p align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-donaldozoubery-00FFD1?style=for-the-badge&logo=github)](https://github.com/donaldozoubery)
+
+</p>
 
 ---
 
